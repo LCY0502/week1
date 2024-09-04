@@ -36,3 +36,12 @@ What do you get as output? Edit this README file by copy-pasting or screenshotti
 
 Add your answers here:
 
+@LCY0502 ➜ /workspaces/week1 (main) $ ./welcome José
+Hi José, your name is 5 characters long according to strlen.
+The first character of your name is J 
+@LCY0502 ➜ /workspaces/week1 (main) $ ./welcome Ülo
+Hi Ülo, your name is 4 characters long according to strlen.
+The first character of your name is � 
+@LCY0502 ➜ /workspaces/week1 (main) $ ./welcome 李
+Hi 李, your name is 3 characters long according to strlen.
+The first character of your name is � 
